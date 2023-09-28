@@ -7,7 +7,7 @@ const About = () => {
     <div>
       <Logo />
       <Navigation />
-      <h1>A propos</h1>
+      <h1>About</h1>
       <br />
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam earum ducimus et cupiditate tempora nam eum, tempore reiciendis ipsam perferendis. Accusamus, voluptate consequatur sed repellendus itaque maiores magnam adipisci, atque quam, vero ipsum possimus. Necessitatibus tempore deleniti doloremque, totam assumenda consequuntur modi quidem porro expedita odit vitae consequatur itaque similique aliquid quia quaerat, molestiae pariatur reiciendis! Provident molestias sapiente rerum illum nobis? Quia magnam, itaque aspernatur eius eos perferendis quo voluptatum voluptatem doloremque, sed excepturi veritatis minus voluptas commodi corporis explicabo enim omnis, totam culpa? Tempora, ducimus, cupiditate quas quasi enim maiores earum natus beatae repellendus, minima inventore debitis quae.</p>
       <br />

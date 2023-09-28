@@ -36,14 +36,19 @@ const Countries = () => {
               id={continent}
               checked={continent === selectedRadio}
               name='continentRadio'
-              onChange={(e) => setSelectedRadio(e.target.id)} />
+              onChange={(e) => setSelectedRadio(e.target.id)}
+            />
             <label htmlFor={continent}>{continent}</label>
           </li>
         ))}
-        <input className='searchButton' type="text" onChange={(e) => setCountrySearch([e.target.value])} />
+        <input
+          className='searchButton'
+          type="text"
+          onChange={(e) => setCountrySearch([e.target.value])}
+        />
       </ul>
       {selectedRadio && (
-        <button onClick={() => setSelectedRadio("")}>Annuler la recherche</button>
+        <button onClick={() => setSelectedRadio("")}>Cancel the search</button>
       )}
       <ul>
         {

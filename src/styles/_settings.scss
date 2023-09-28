@@ -5,7 +5,8 @@
 
 $font-1: "font-1", sans-serif;
 
-$color-1: #61dafb;
+$color-0: #61dafb;
+$color-1: #2f6f81;
 $color-2: salmon;
 $color-3: #282c34;
 $white: rgb(243, 243, 243);
@@ -27,6 +28,7 @@ body {
   font-family: $font-1;
   // @include verticalCenter;
 }
+
 li {
   list-style-type: none;
 }
