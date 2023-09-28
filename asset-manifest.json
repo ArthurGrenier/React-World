@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-World/static/css/main.6ae1d5a2.css",
+    "main.js": "/React-World/static/js/main.61439767.js",
+    "static/media/main.jpg": "/React-World/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/React-World/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/React-World/index.html",
+    "main.6ae1d5a2.css.map": "/React-World/static/css/main.6ae1d5a2.css.map",
+    "main.61439767.js.map": "/React-World/static/js/main.61439767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae1d5a2.css",
+    "static/js/main.61439767.js"
+  ]
+}
