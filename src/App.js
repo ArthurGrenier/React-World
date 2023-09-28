@@ -11,7 +11,7 @@ const App = () => {
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
         {/* path="*" fonctionne si l'url ne correspond a rien de connu */}
-        <Route path='*' element={<NotFound />} />
+        <Route path='*' element={<Home />} />
       </Routes>
     </BrowserRouter>
   );
